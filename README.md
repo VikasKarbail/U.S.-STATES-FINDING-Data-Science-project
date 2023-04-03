@@ -10,3 +10,7 @@ working:
    
 for doing this project you need to know some basic concept of pandas like how it create dataFrame, how it fetch data, how to select row or entire row and 
 and how to select column.
+
+
+
+                                                                                                 VIKAS K.R.
